@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534053054751",
+    "project_id": "realtimefirebase-daa5d",
+    "storage_bucket": "realtimefirebase-daa5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534053054751:android:433e78a7a74bda2301282a",
+        "android_client_info": {
+          "package_name": "com.example.realtimefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534053054751-nr34d45h3g1je4rr6m1oatms35bjotis.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQcbKY4LgURrOKM1OyjqatrVtq5ZdsZn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534053054751-nr34d45h3g1je4rr6m1oatms35bjotis.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
